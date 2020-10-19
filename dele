@@ -1,0 +1,11 @@
+[33mcommit 7f4c328429bb29c581d292c961dead9ba58eb5df[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: dsypasit <ong.pasit@gmail.com>
+Date:   Mon Oct 19 14:49:50 2020 +0700
+
+    delete show_list fuction
+
+[33mcommit a5a9740ea0e798dc0d44010fb2b0dd33ab9c7203[m
+Author: Dsypasit <ong.pasit@gmail.com>
+Date:   Sun Oct 18 23:15:10 2020 +0700
+
+    initial commit
